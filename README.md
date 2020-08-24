@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+Sample Scren
+
+![Alt text](/images/Flutter_1.png "Screenshot")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
